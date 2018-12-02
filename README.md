@@ -1,2 +1,2 @@
 # best-repo-ever
-A Test
+First change for the merge conflict.
